@@ -1,0 +1,2 @@
+Hello! This is my first Odin project git testing demonstration!
+This is great hehe
